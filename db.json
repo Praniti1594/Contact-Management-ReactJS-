@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    [
+      {
+        "id": "8d1c42b9-39bf-4157-b7ed-ec51cfe89e08",
+        "name": "Sherlock Holmes",
+        "email": "sherlock221@gmail.com"
+      },
+      {
+        "id": "2a375136-2839-478b-a711-fe2fbfa0f562",
+        "name": "Praniti Kubal",
+        "email": "pranitikubal9@gmail.com"
+      }
+    ],
+    {
+      "id": "98aca1ca-680a-42c8-8376-c42883a55891",
+      "name": "Praniti  Kubal",
+      "email": "pranitikubal9@gmail.com"
+    },
+    {
+      "id": "090980eb-9597-478a-8b01-2c597c55e13b",
+      "name": "Sarvesh  Kubal",
+      "email": "sarveshkubal12@gmail.com"
+    }
+  ]
+}
